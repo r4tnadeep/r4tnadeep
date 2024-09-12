@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r4tnadeep an Electronics and Communications Engineering (ECE) student.
 - 🔧 Skills and Expertise:
             Languages: Verilog, MATLAB, C, C++
-            Tools: Xilinx Vivado, LT Spice, Simulink, TCAD Sentaurus
+            Tools: Xilinx Vivado, LT Spice, Simulink, TCAD Sentaurus, Cadence Virtuoso
 - 🌱 I’m Currently Learning:
             Approximate computing methods and their applications in fault-tolerant systems
             Emerging trends in digital circuit design and simulation
